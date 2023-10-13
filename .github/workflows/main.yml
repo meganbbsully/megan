@@ -1,0 +1,7 @@
+- name: Create GitHub App Token
+  uses: actions/create-github-app-token@v1.1.4
+  with:
+    # GitHub App ID
+    app_id: 
+    # GitHub App private key
+    private_key: 
